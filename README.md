@@ -1,6 +1,6 @@
 
 
-Hangman Game (Jogo da Forca) 🎮
+### Hangman Game (Jogo da Forca) 🎮
 
 Um simples jogo da Forca desenvolvido em Python, utilizando os conceitos de Programação Orientada a Objetos (POO).
 
